@@ -3,7 +3,7 @@ package server
 import (
 	"net/http"
 
-	"github.com/tanguyRa/saas_seed/internal/middleware"
+	"github.com/tanguyRa/memail/internal/middleware"
 )
 
 func (s *Server) initRoutes() http.Handler {

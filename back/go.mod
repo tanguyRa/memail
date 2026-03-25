@@ -1,4 +1,4 @@
-module github.com/tanguyRa/saas_seed
+module github.com/tanguyRa/memail
 
 go 1.24.0
 

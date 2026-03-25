@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/tanguyRa/saas_seed/internal/config"
-	"github.com/tanguyRa/saas_seed/internal/server"
+	"github.com/tanguyRa/memail/internal/config"
+	"github.com/tanguyRa/memail/internal/server"
 )
 
 func main() {

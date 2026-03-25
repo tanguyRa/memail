@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tanguyRa/saas_seed/internal/config"
-	"github.com/tanguyRa/saas_seed/internal/repository"
+	"github.com/tanguyRa/memail/internal/config"
+	"github.com/tanguyRa/memail/internal/repository"
 
 	"github.com/google/uuid"
 )

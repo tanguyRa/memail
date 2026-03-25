@@ -1,4 +1,4 @@
-# saas_seed
+# memail
 
 A full-stack SaaS starter kit with:
 - SvelteKit frontend (`front`)
